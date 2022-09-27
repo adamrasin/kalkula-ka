@@ -1,0 +1,7 @@
+C:\Users\Rasin.Ad.2022\source\repos\kalkulačka\kalkulačka\bin\Debug\kalkulačka.exe.config
+C:\Users\Rasin.Ad.2022\source\repos\kalkulačka\kalkulačka\bin\Debug\kalkulačka.exe
+C:\Users\Rasin.Ad.2022\source\repos\kalkulačka\kalkulačka\bin\Debug\kalkulačka.pdb
+C:\Users\Rasin.Ad.2022\source\repos\kalkulačka\kalkulačka\obj\Debug\kalkulačka.csprojAssemblyReference.cache
+C:\Users\Rasin.Ad.2022\source\repos\kalkulačka\kalkulačka\obj\Debug\kalkulačka.csproj.CoreCompileInputs.cache
+C:\Users\Rasin.Ad.2022\source\repos\kalkulačka\kalkulačka\obj\Debug\kalkulačka.exe
+C:\Users\Rasin.Ad.2022\source\repos\kalkulačka\kalkulačka\obj\Debug\kalkulačka.pdb
